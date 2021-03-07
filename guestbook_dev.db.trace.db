@@ -1,0 +1,38 @@
+2021-03-07 19:26:58 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "SCHEMA_MIGRATIONS" non trouvée
+Table "SCHEMA_MIGRATIONS" not found; SQL statement:
+SELECT 1 FROM schema_migrations [42102-200]
+2021-03-07 19:44:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+SELECT * FROM guestbook [42102-200]
+2021-03-07 19:46:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+SELECT * FROM guestbook [42102-200]
+2021-03-07 19:47:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+SELECT * FROM guestbook [42102-200]
+2021-03-07 19:48:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+SELECT * FROM guestbook [42102-200]
+2021-03-07 19:50:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+SELECT * FROM guestbook [42102-200]
+2021-03-07 19:52:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+SELECT * FROM guestbook [42102-200]
+2021-03-07 19:52:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+SELECT * FROM guestbook [42102-200]
+2021-03-07 19:57:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "GUESTBOOK" non trouvée
+Table "GUESTBOOK" not found; SQL statement:
+INSERT INTO guestbook
+(name, message)
+VALUES (?, ?) [42102-200]
